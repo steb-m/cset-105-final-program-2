@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html {
+    background-image: linear-gradient(to bottom, #EFD9CE, #CEA2AC, #A675A1, #8F3985, #25283D);
+    background-repeat: none;
+    background-size: cover;
+}
+body{
+    margin: 0 auto;
+    justify-content: center;
+    width: 40%;
+    height:2000px
+}
+section{
+    
+}
+h1, h2, h3, h4, h5, h6, p {
+    text-align: center;
+    background-color: ;
+}
