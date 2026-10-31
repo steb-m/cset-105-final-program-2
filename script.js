@@ -1,4 +1,4 @@
-let questions = ['C', 'A', 'D', 'B', 'B', '', '', '', '', ''];
+let questions = ['C', 'A', 'D', 'B', 'B', 'c', 'a', 'd', 'c', 'b'];
 let correct = 0;
 let total = 0;
 const submitButton = document.getElementById('submit')
